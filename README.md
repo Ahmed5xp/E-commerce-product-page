@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/127.0.0.1_5500_ecommerce-product-page-main_design_index.html.png)
+![](./Images/127.0.0.1_5500_ecommerce-product-page-main_design_index.html.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: []()
+- Live Site URL: [E-commerce product page solution](https://ahmed5xp.github.io/E-commerce-product-page )
 
 ## My process
 
