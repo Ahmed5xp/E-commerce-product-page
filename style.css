@@ -950,15 +950,16 @@ html {
         z-index: 2;
 }
     .flex1,.flex2 {
-        width: 50%;
         display: flex;
         align-items: center;
     }
     .flex1 {
+        width:60%;
         flex-direction: row-reverse;
         justify-content: space-evenly;
     }
     .flex2 {
+        width:40%;
         justify-content:flex-end;
     }
     .pro img {
